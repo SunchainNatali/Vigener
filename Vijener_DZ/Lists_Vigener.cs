@@ -35,7 +35,7 @@ namespace Vijener_DZ
             {25, 'z' }
         };
 
-        public static Dictionary<char, int> revers_listVigener = new Dictionary<char, int>()
+        public static Dictionary<char, int> revers_listVigener = new Dictionary<char, int>
         {
             {'a',  0 },
             {'b',  1 },
